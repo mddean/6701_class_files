@@ -1,0 +1,6 @@
+To: Rashid; Stephen
+Cc: Max
+From: Binish <binish.shah@fw.com>
+Subject: Re: Distiller Management Software System
+
+Interesting. Did they say anything about whether it interfaces with SAP? Otherwise, our inventory accounting would be a mess.
